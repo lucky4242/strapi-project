@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tasks",
+  "info": {
+    "singularName": "task",
+    "pluralName": "tasks",
+    "displayName": "Tasks",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sam": {
+      "type": "string"
+    },
+    "dav": {
+      "type": "string"
+    },
+    "lucky": {
+      "type": "string"
+    }
+  }
+}
